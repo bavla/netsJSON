@@ -1,0 +1,15 @@
+{
+  "info":{"org":0,"nNodes":4},
+  "nodes":[
+    {"name":"Ann","x":0.2,"y":0.2,"Num":1,"Size":100},
+    {"name":"Ben","x":0.2,"y":0.8,"Num":4,"Size":500},
+    {"name":"Tim","x":0.8,"y":0.2,"Num":2,"Size":200},
+    {"name":"Zoe","x":0.8,"y":0.8,"Num":3,"Size":400}
+  ],
+  "links":[
+    {"source":0,"target":1,"Count":1,"Weight":100},
+    {"source":1,"target":2,"Count":1,"Weight":100},
+    {"source":2,"target":3,"Count":1,"Weight":100},
+    {"source":1,"target":3,"Count":2,"Weight":300}
+  ]
+}

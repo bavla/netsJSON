@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>JSON: eval and parse</title>
+</head>
+<body>
+<script>
+var data = '["abc", {"a": [true, null, 3.14], "b": "BBBBB", "c": 12e+5}]'
+alert("JSON: " + data);
+document.write("JSON:<tt>"+data+"</tt><br>");
+var value = eval('(' + data + ')');
+console.log("eval:"); console.log(value);
+document.write("eval:<tt>"+JSON.stringify(value)+"</tt><br>");
+var json = JSON.parse(data);
+console.log("JSON.parse:"); console.log(json);
+</script>
+</body>
+</html>

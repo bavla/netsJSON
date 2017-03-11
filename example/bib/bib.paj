@@ -1,0 +1,86 @@
+% Description of network
+% Example for EUSN'16 workshop
+% Vladimir Batagelj, June 10 2016, Paris
+*Network bib
+*Vertices 16
+  1 "Batagelj, Vladimir"                     0.8091    0.6537    0.5000
+  2 "Doreian, Patrick"                       0.3585    0.6791    0.5000
+  3 "Ferligoj, Anu&#353;ka"                  0.6195    0.6807    0.5000
+  4 "Granovetter, Mark"                      0.1456    0.6605    0.5000
+  5 "Moustaki, Irini"                        0.7830    0.2280    0.5000
+  6 "Mrvar, Andrej"                          0.4780    0.6301    0.5000
+  7 "Clustering with\nrelational constraint"    0.6841    0.3801    0.5000
+  8 "The Strength of Weak Ties"              0.1113    0.3294    0.5000
+  9 "Partitioning signed social networks"    0.4080    0.3378    0.5000
+ 10 "Generalized Blockmodeling"              0.5330    0.4459    0.5000
+ 11 "Psychometrika"                          0.7418    0.0861    0.5000
+ 12 "Social Networks"                        0.3214    0.2365    0.5000
+ 13 "The American\nJournal of Sociology"     0.1113    0.1689    0.5000
+ 14 "Structural Analysis in\nthe Social Sciences"    0.3104    0.0828    0.5000
+ 15 "Cambridge\nUniversity Press"            0.5343    0.2382    0.5000
+ 16 "Springer"                               0.8846    0.1740    0.5000
+*Arcs :1 "authorOf"
+  1  10 1 l "authorOf"
+  2  10 1 l "authorOf"
+  3  10 1 l "authorOf"
+  1   7 1 l "authorOf"
+  3   7 1 l "authorOf"
+  4   8 1 l "authorOf"
+  2   9 1 l "authorOf"
+  6   9 1 l "authorOf"
+*Arcs :2 "cites"
+  9  10 1 l "cites"
+ 10   7 1 l "cites"
+*Arcs :3 "containedIn"
+ 10  14 1 l "containedIn"
+  7  11 1 l "containedIn"
+  8  13 1 l "containedIn"
+  9  12 1 l "containedIn"
+*Arcs :4 "editorOf"
+  4  14 1 l "editorOf"
+  5  11 1 l "editorOf"
+  2  12 1 l "editorOf"
+*Arcs :5 "publishedBy"
+ 14  15 1 l "publishedBy"
+ 11  16 1 l "publishedBy"
+
+*Partition bibMode
+%  1 book  2 journal  3 paper  4 person  5 publisher  6 series
+*Vertices 16
+4
+4
+4
+4
+4
+4
+3
+3
+3
+1
+2
+2
+2
+6
+5
+5
+
+*Partition bibSex
+%  0 NA  1 f  2 m
+*Vertices 16
+2
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+

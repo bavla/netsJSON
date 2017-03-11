@@ -1,0 +1,17 @@
+name;mode;country;sex;year;vol;num;fPage;lPage;x;y
+"Batagelj, Vladimir";person;SI;m;;;;;;809.1;653.7
+"Doreian, Patrick";person;US;m;;;;;;358.5;679.1
+"Ferligoj, Anuška";person;SI;f;;;;;;619.5;680.7
+"Granovetter, Mark";person;US;m;;;;;;145.6;660.5
+"Moustaki, Irini";person;UK;f;;;;;;783.0;228.0
+"Mrvar, Andrej";person;SI;m;;;;;;478.0;630.1
+"Clustering with relational constraint";paper;;;1982;47;;413;426;684.1;380.1
+"The Strength of Weak Ties";paper;;;1973;78;6;1360;1380;111.3;329.4
+"Partitioning signed social networks";paper;;;2009;31;1;1;11;408.0;337.8
+"Generalized Blockmodeling";book;;;2005;24;;1;385;533.0;445.9
+"Psychometrika";journal;;;;;;;;741.8;086.1
+"Social Networks";journal;;;;;;;;321.4;236.5
+"The American Journal of Sociology";journal;;;;;;;;111.3;168.9
+"Structural Analysis in the Social Sciences";series;;;;;;;;310.4;082.8
+"Cambridge University Press";publisher;UK;;;;;;;534.3;238.2
+"Springer";publisher;US;;;;;;;884.6;174.0

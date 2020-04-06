@@ -1,7 +1,7 @@
-# netsJSON
+# NetsJSON
 JSON format for network analysis
 
-On February 26, 2019 the format was renamed from netJSON to netsJSON because of the collision with http://netjson.org/rfc.html.
+On February 26, 2019 the format was renamed from netJSON to NetsJSON because of the collision with http://netjson.org/rfc.html.
 
 http://vladowiki.fmf.uni-lj.si/lib/exe/fetch.php?media=pub:pdf:NetsJSON-UP.pdf
 

@@ -1,10 +1,10 @@
 # Documents
 
-## Structure of a basic netJSON file
+## Structure of a basic netsJSON file
 
 ```
 {
-  "netJSON": "basic",
+  "netsJSON": "basic",
   "info": {
     "simple": true, "directed": false, "multirel": false, "temporal": true,
     "nNodes": 62106, "nArcs": 0, "nEdges": 633977, "org": 1, "mode": 1,

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 1. bibKG (21) -->
+<!-- Creator: Pajek 6.01: http://mrvar.fdv.uni-lj.si/pajek -->
+<!-- CreationDate: 03-17-2025, 5:13:29 -->
+<svg xml:space="preserve" viewBox="0 0 1131 844" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>1. bibKG (21)</title>
+<defs>
+ <radialGradient id="LSkyBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(216,242,255)"/>
+  <stop offset="1" style="stop-color:rgb(108,121,128)"/>
+ </radialGradient>
+ <radialGradient id="Salmon" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,119,158)"/>
+  <stop offset="1" style="stop-color:rgb(128,60,79)"/>
+ </radialGradient>
+ <radialGradient id="LightYellow" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,153)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,76)"/>
+ </radialGradient>
+ <radialGradient id="GreenYellow" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(216,255,79)"/>
+  <stop offset="1" style="stop-color:rgb(108,128,40)"/>
+ </radialGradient>
+ <radialGradient id="White" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,255)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,128)"/>
+ </radialGradient>
+ <radialGradient id="Pink" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,216,242)"/>
+  <stop offset="1" style="stop-color:rgb(128,108,121)"/>
+ </radialGradient>
+ <radialGradient id="LightOrange" cx="30%" cy="30%" fx="30%" fy="30%" r="100%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,217,188)"/>
+  <stop offset="1" style="stop-color:rgb(128,108,94)"/>
+ </radialGradient>
+</defs>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 826)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:saddlebrown; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L1113 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 826)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Brush Script MT;font-size:75px;fill:green;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L1113 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<g id="c0on" visibility="visible">
+  <ellipse style="fill:rgb(102,0,0);stroke:rgb(102,0,0);stroke-width:0.00" rx="5" ry="5" cx="6" cy="10"/> 
+</g>
+<g id="c0off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(102,0,0);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="10"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c0off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c0on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="14"><tspan>ArcsLabels</tspan></text>
+
+<g id="c0">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c0on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c0off.click"/>
+<g transform="translate(637.36 510.06)">
+<g transform="rotate(240.72)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(449.99 476.61)">
+<g transform="rotate(-27.49)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(728.73 514.45)">
+<g transform="rotate(213.67)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(720.60 456.73)">
+<g transform="rotate(-72.54)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(810.68 466.03)">
+<g transform="rotate(251.88)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(137.56 404.19)">
+<g transform="rotate(263.65)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(371.32 434.50)">
+<g transform="rotate(-64.94)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(478.62 442.54)">
+<g transform="rotate(248.85)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">authorOf</text>
+</g></g>
+<g transform="translate(516.19 350.54)">
+<g transform="rotate(32.78)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">cites</text>
+</g></g>
+<g transform="translate(673.08 361.21)">
+<g transform="rotate(-27.19)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">cites</text>
+</g></g>
+<g transform="translate(480.21 250.12)">
+<g transform="rotate(237.83)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">containedIn</text>
+</g></g>
+<g transform="translate(794.81 201.15)">
+<g transform="rotate(-75.28)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">containedIn</text>
+</g></g>
+<g transform="translate(118.82 162.56)">
+<g transform="rotate(-90.00)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">containedIn</text>
+</g></g>
+<g transform="translate(397.07 267.76)">
+<g transform="rotate(236.27)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">containedIn</text>
+</g></g>
+<g transform="translate(257.98 313.68)">
+<g transform="rotate(-66.86)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">editorOf</text>
+</g></g>
+<g transform="translate(888.71 141.37)">
+<g transform="rotate(227.39)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">editorOf</text>
+</g></g>
+<g transform="translate(334.87 381.73)">
+<g transform="rotate(-84.19)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">editorOf</text>
+</g></g>
+<g transform="translate(465.48 110.78)">
+<g transform="rotate(32.83)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">publishedBy</text>
+</g></g>
+<g transform="translate(789.58 130.35)">
+<g transform="rotate(138.14)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">publishedBy</text>
+</g></g>
+<g transform="translate(482.90 671.91)">
+<g transform="rotate(159.83)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">sex</text>
+</g></g>
+<g transform="translate(303.06 645.13)">
+<g transform="rotate(110.65)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">sex</text>
+</g></g>
+<g transform="translate(917.72 656.70)">
+<g transform="rotate(56.35)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">sex</text>
+</g></g>
+<g transform="translate(215.50 640.48)">
+<g transform="rotate(64.42)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">sex</text>
+</g></g>
+<g transform="translate(963.74 457.97)">
+<g transform="rotate(87.81)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">sex</text>
+</g></g>
+<g transform="translate(404.69 652.39)">
+<g transform="rotate(145.05)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">sex</text>
+</g></g>
+<g transform="translate(699.88 662.20)">
+<g transform="rotate(90.66)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(448.71 639.23)">
+<g transform="rotate(39.74)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(787.57 674.90)">
+<g transform="rotate(136.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(364.22 642.33)">
+<g transform="rotate(25.68)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(850.66 241.33)">
+<g transform="rotate(154.48)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(613.59 640.81)">
+<g transform="rotate(52.13)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(645.40 221.04)">
+<g transform="rotate(29.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+<g transform="translate(653.62 462.72)">
+<g transform="rotate(104.58)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">country</text>
+</g></g>
+</g>
+
+<g id="c1on" visibility="visible">
+  <ellipse style="fill:rgb(102,0,0);stroke:rgb(102,0,0);stroke-width:0.00" rx="5" ry="5" cx="6" cy="23"/> 
+</g>
+<g id="c1off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(102,0,0);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="23"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c1off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c1on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="27"><tspan>Arcs</tspan></text>
+
+<g id="c1">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c1on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c1off.click"/>
+<!-- Arc:     1   10 -->
+<g transform="translate(611.78 443.99)">
+<g transform="rotate(240.72)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="690.77" y1="584.89" x2="611.78" y2="443.99" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     2   10 -->
+<g transform="translate(562.73 429.21)">
+<g transform="rotate(332.51)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="327.63" y1="551.56" x2="562.73" y2="429.21" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     3   10 -->
+<g transform="translate(624.03 432.69)">
+<g transform="rotate(213.67)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="862.20" y1="591.34" x2="624.03" y2="432.69" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     1    7 -->
+<g transform="translate(763.13 354.85)">
+<g transform="rotate(287.46)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="690.77" y1="584.89" x2="763.13" y2="354.85" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     3    7 -->
+<g transform="translate(784.77 354.70)">
+<g transform="rotate(251.88)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="862.20" y1="591.34" x2="784.77" y2="354.70" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     4    8 -->
+<g transform="translate(132.68 269.83)">
+<g transform="rotate(263.65)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="164.67" y1="557.46" x2="132.68" y2="269.83" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     2    9 -->
+<g transform="translate(424.13 345.17)">
+<g transform="rotate(295.06)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="327.63" y1="551.56" x2="424.13" y2="345.17" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     6    9 -->
+<g transform="translate(452.04 346.13)">
+<g transform="rotate(248.85)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,224,0)"/>
+</g></g>
+<line x1="531.52" y1="551.56" x2="452.04" y2="346.13" style="stroke-width:3.00;stroke:rgb(0,224,0)"/>
+<!-- Arc:     9   10 -->
+<g transform="translate(564.47 393.51)">
+<g transform="rotate(392.78)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,0,255)"/>
+</g></g>
+<line x1="439.21" y1="312.87" x2="564.47" y2="393.51" style="stroke-width:3.00;stroke:rgb(255,0,255)"/>
+<!-- Arc:    10    7 -->
+<g transform="translate(741.98 337.05)">
+<g transform="rotate(332.81)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,0,255)"/>
+</g></g>
+<line x1="594.41" y1="412.86" x2="741.98" y2="337.05" style="stroke-width:3.00;stroke:rgb(255,0,255)"/>
+<!-- Arc:    10   14 -->
+<g transform="translate(394.26 94.71)">
+<g transform="rotate(237.83)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,0,0)"/>
+</g></g>
+<line x1="594.41" y1="412.86" x2="394.26" y2="94.71" style="stroke-width:3.00;stroke:rgb(255,0,0)"/>
+<!-- Arc:     7   11 -->
+<g transform="translate(829.85 107.13)">
+<g transform="rotate(284.72)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,0,0)"/>
+</g></g>
+<line x1="773.72" y1="320.80" x2="829.85" y2="107.13" style="stroke-width:3.00;stroke:rgb(255,0,0)"/>
+<!-- Arc:     8   13 -->
+<g transform="translate(128.82 111.99)">
+<g transform="rotate(270.00)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,0,0)"/>
+</g></g>
+<line x1="128.82" y1="234.38" x2="128.82" y2="111.99" style="stroke-width:3.00;stroke:rgb(255,0,0)"/>
+<!-- Arc:     9   12 -->
+<g transform="translate(383.36 229.22)">
+<g transform="rotate(236.27)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,0,0)"/>
+</g></g>
+<line x1="439.21" y1="312.87" x2="383.36" y2="229.22" style="stroke-width:3.00;stroke:rgb(255,0,0)"/>
+<!-- Arc:     4   14 -->
+<g transform="translate(361.33 97.31)">
+<g transform="rotate(293.14)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,0,255)"/>
+</g></g>
+<line x1="164.67" y1="557.46" x2="361.33" y2="97.31" style="stroke-width:3.00;stroke:rgb(0,0,255)"/>
+<!-- Arc:     5   11 -->
+<g transform="translate(863.18 98.84)">
+<g transform="rotate(227.39)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,0,255)"/>
+</g></g>
+<line x1="943.35" y1="186.00" x2="863.18" y2="98.84" style="stroke-width:3.00;stroke:rgb(0,0,255)"/>
+<!-- Arc:     2   12 -->
+<g transform="translate(359.85 235.07)">
+<g transform="rotate(275.81)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,0,255)"/>
+</g></g>
+<line x1="327.63" y1="551.56" x2="359.85" y2="235.07" style="stroke-width:3.00;stroke:rgb(0,0,255)"/>
+<!-- Arc:    14   15 -->
+<g transform="translate(526.94 162.34)">
+<g transform="rotate(392.83)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,255,255)"/>
+</g></g>
+<line x1="375.31" y1="64.51" x2="526.94" y2="162.34" style="stroke-width:3.00;stroke:rgb(0,255,255)"/>
+<!-- Arc:    11   16 -->
+<g transform="translate(742.66 158.96)">
+<g transform="rotate(498.14)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(0,255,255)"/>
+</g></g>
+<line x1="838.98" y1="72.67" x2="742.66" y2="158.96" style="stroke-width:3.00;stroke:rgb(0,255,255)"/>
+<!-- Arc:     1   17 -->
+<g transform="translate(288.08 732.83)">
+<g transform="rotate(519.83)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,181,40)"/>
+</g></g>
+<line x1="690.77" y1="584.89" x2="288.08" y2="732.83" style="stroke-width:3.00;stroke:rgb(255,181,40)"/>
+<!-- Arc:     2   17 -->
+<g transform="translate(267.26 711.76)">
+<g transform="rotate(470.65)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,181,40)"/>
+</g></g>
+<line x1="327.63" y1="551.56" x2="267.26" y2="711.76" style="stroke-width:3.00;stroke:rgb(255,181,40)"/>
+<!-- Arc:     3   18 -->
+<g transform="translate(944.82 715.46)">
+<g transform="rotate(416.35)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,181,40)"/>
+</g></g>
+<line x1="862.20" y1="591.34" x2="944.82" y2="715.46" style="stroke-width:3.00;stroke:rgb(255,181,40)"/>
+<!-- Arc:     4   17 -->
+<g transform="translate(239.11 712.98)">
+<g transform="rotate(424.42)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,181,40)"/>
+</g></g>
+<line x1="164.67" y1="557.46" x2="239.11" y2="712.98" style="stroke-width:3.00;stroke:rgb(255,181,40)"/>
+<!-- Arc:     5   18 -->
+<g transform="translate(963.33 709.46)">
+<g transform="rotate(447.81)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,181,40)"/>
+</g></g>
+<line x1="943.35" y1="186.00" x2="963.33" y2="709.46" style="stroke-width:3.00;stroke:rgb(255,181,40)"/>
+<!-- Arc:     6   17 -->
+<g transform="translate(283.82 724.65)">
+<g transform="rotate(505.05)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(255,181,40)"/>
+</g></g>
+<line x1="531.52" y1="551.56" x2="283.82" y2="724.65" style="stroke-width:3.00;stroke:rgb(255,181,40)"/>
+<!-- Arc:     1   19 -->
+<g transform="translate(689.24 718.04)">
+<g transform="rotate(450.66)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="690.77" y1="584.89" x2="689.24" y2="718.04" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:     2   20 -->
+<g transform="translate(540.67 728.69)">
+<g transform="rotate(399.74)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="327.63" y1="551.56" x2="540.67" y2="728.69" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:     3   19 -->
+<g transform="translate(714.79 729.34)">
+<g transform="rotate(496.89)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="862.20" y1="591.34" x2="714.79" y2="729.34" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:     4   20 -->
+<g transform="translate(535.94 736.01)">
+<g transform="rotate(385.68)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="164.67" y1="557.46" x2="535.94" y2="736.01" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:     5   21 -->
+<g transform="translate(768.54 269.45)">
+<g transform="rotate(514.48)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="943.35" y1="186.00" x2="768.54" y2="269.45" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:     6   19 -->
+<g transform="translate(666.83 725.56)">
+<g transform="rotate(412.13)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="531.52" y1="551.56" x2="666.83" y2="725.56" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:    15   21 -->
+<g transform="translate(705.52 267.13)">
+<g transform="rotate(389.89)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="556.88" y1="181.70" x2="705.52" y2="267.13" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+<!-- Arc:    16   20 -->
+<g transform="translate(577.11 717.06)">
+<g transform="rotate(464.58)">
+<path d="M 0 0 L -4.00 10.00 L 20.00 0 L -4.00 -10.00 z" style="fill:rgb(219,147,112)"/>
+</g></g>
+<line x1="716.13" y1="182.78" x2="577.11" y2="717.06" style="stroke-width:3.00;stroke:rgb(219,147,112)"/>
+</g>
+
+<!-- Vertex:     1 -->
+<ellipse cx="690.77" cy="584.89" rx="14.40" ry="14.40" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     2 -->
+<ellipse cx="327.63" cy="551.56" rx="14.40" ry="14.40" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     3 -->
+<ellipse cx="862.20" cy="591.34" rx="14.40" ry="14.40" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     4 -->
+<ellipse cx="164.67" cy="557.46" rx="14.40" ry="14.40" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     5 -->
+<ellipse cx="943.35" cy="186.00" rx="14.40" ry="14.40" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     6 -->
+<ellipse cx="531.52" cy="551.56" rx="14.40" ry="14.40" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     7 -->
+<ellipse cx="773.72" cy="320.80" rx="14.40" ry="14.40" style="fill:url(#Salmon);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     8 -->
+<ellipse cx="128.82" cy="234.38" rx="14.40" ry="14.40" style="fill:url(#Salmon);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:     9 -->
+<ellipse cx="439.21" cy="312.87" rx="14.40" ry="14.40" style="fill:url(#Salmon);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    10 -->
+<ellipse cx="594.41" cy="412.86" rx="14.40" ry="14.40" style="fill:url(#LightYellow);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    11 -->
+<ellipse cx="838.98" cy="72.67" rx="14.40" ry="14.40" style="fill:url(#GreenYellow);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    12 -->
+<ellipse cx="363.50" cy="199.61" rx="14.40" ry="14.40" style="fill:url(#GreenYellow);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    13 -->
+<ellipse cx="128.82" cy="76.34" rx="14.40" ry="14.40" style="fill:url(#GreenYellow);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    14 -->
+<ellipse cx="375.31" cy="64.51" rx="14.40" ry="14.40" style="fill:url(#White);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    15 -->
+<ellipse cx="556.88" cy="181.70" rx="14.40" ry="14.40" style="fill:url(#Pink);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    16 -->
+<ellipse cx="716.13" cy="182.78" rx="14.40" ry="14.40" style="fill:url(#Pink);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    17 -->
+<ellipse cx="254.60" cy="745.09" rx="14.40" ry="14.40" style="fill:url(#LightOrange);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    18 -->
+<ellipse cx="964.65" cy="745.09" rx="14.40" ry="14.40" style="fill:url(#LightOrange);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    19 -->
+<ellipse cx="688.74" cy="753.69" rx="14.40" ry="14.40" style="fill:url(#LightOrange);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    20 -->
+<ellipse cx="568.04" cy="751.54" rx="14.40" ry="14.40" style="fill:url(#LightOrange);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<!-- Vertex:    21 -->
+<ellipse cx="736.42" cy="284.92" rx="14.40" ry="14.40" style="fill:url(#LightOrange);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+
+<g id="c2on" visibility="visible">
+  <ellipse style="fill:rgb(102,0,0);stroke:rgb(102,0,0);stroke-width:0.00" rx="5" ry="5" cx="6" cy="36"/> 
+</g>
+<g id="c2off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(102,0,0);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="36"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c2off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c2on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="40"><tspan>VerticesLabels</tspan></text>
+
+<g id="c2">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c2on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c2off.click"/>
+<!-- Vertex:     1 -->
+<text x="708.63" y="591.39" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Batagelj, Vladimir</text>
+<!-- Vertex:     2 -->
+<text x="345.49" y="558.06" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Doreian, Patrick</text>
+<!-- Vertex:     3 -->
+<text x="880.05" y="597.84" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Ferligoj, Anuška</text>
+<!-- Vertex:     4 -->
+<text x="182.53" y="563.96" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Granovetter, Mark</text>
+<!-- Vertex:     5 -->
+<text x="961.20" y="192.50" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Moustaki, Irini</text>
+<!-- Vertex:     6 -->
+<text x="549.37" y="558.06" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Mrvar, Andrej</text>
+<!-- Vertex:     7 -->
+<text x="791.57" y="327.30" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Clustering with</text>
+<text x="791.57" y="342.30" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">relational constraint</text>
+<!-- Vertex:     8 -->
+<text x="146.68" y="240.88" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">The Strength of Weak Ties</text>
+<!-- Vertex:     9 -->
+<text x="457.07" y="319.37" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Partitioning signed social networks</text>
+<!-- Vertex:    10 -->
+<text x="612.26" y="419.36" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Generalized Blockmodeling</text>
+<!-- Vertex:    11 -->
+<text x="856.83" y="79.17" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Psychometrika</text>
+<!-- Vertex:    12 -->
+<text x="381.36" y="206.10" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Social Networks</text>
+<!-- Vertex:    13 -->
+<text x="146.68" y="82.83" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">The American</text>
+<text x="146.68" y="97.83" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Journal of Sociology</text>
+<!-- Vertex:    14 -->
+<text x="393.16" y="71.01" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Structural Analysis in</text>
+<text x="393.16" y="86.01" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">the Social Sciences</text>
+<!-- Vertex:    15 -->
+<text x="574.73" y="188.20" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Cambridge</text>
+<text x="574.73" y="203.20" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">University Press</text>
+<!-- Vertex:    16 -->
+<text x="733.99" y="189.28" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">Springer</text>
+<!-- Vertex:    17 -->
+<text x="272.46" y="751.58" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">male</text>
+<!-- Vertex:    18 -->
+<text x="982.50" y="751.58" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">female</text>
+<!-- Vertex:    19 -->
+<text x="706.60" y="760.19" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">SI</text>
+<!-- Vertex:    20 -->
+<text x="585.89" y="758.03" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">US</text>
+<!-- Vertex:    21 -->
+<text x="754.27" y="291.42" style="font-family:Arial;font-weight: bold;font-size:15px;fill:rgb(173,0,0)">UK</text>
+</g>
+</g>         <!-- Layer Network -->
+</svg>

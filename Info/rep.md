@@ -4,7 +4,7 @@ Network datasets are available in multiple repositories
  
 1. [ICON](https://icon.colorado.edu/#!/networks) - Colorado Index of Complex Networks
 2. [UCINET](https://sites.google.com/site/ucinetsoftware/datasets) datasets
-3. [Pajek](https://github.com/bavla/Nets/tree/master/data) networks
+3. [Pajek](https://github.com/bavla/Nets/blob/master/data/README.md) networks
 4. [UCI Network Data Repository](https://networkdata.ics.uci.edu/index.html)
 5. [CASOS](http://www.casos.cs.cmu.edu/tools/data2.php) - **C**omputational **A**nalysis of **S**ocial and **O**rganizational **S**ystems
 6. [SNAP](https://snap.stanford.edu/data/) - **S**tanford **N**etwork **A**nalysis **P**latform

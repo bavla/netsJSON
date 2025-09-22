@@ -13,12 +13,13 @@ Network datasets are available in multiple repositories
 9. [Schochastics](https://github.com/schochastics/networkdata) network data
 10. [Network Repository](https://networkrepository.com/)
 11. [Siena data sets](https://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm)
-12. [The House of Graphs](https://houseofgraphs.org/)
-13. [Encyclopedia of Graphs](http://atlas.gregas.eu/)
-14. [Datasets of Highly Symmetric Objects](https://graphsym.net/)
-15. [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets)  datasets
-16. [Kinsources](https://kintip.net/que-faisons-nous/kinsources)
-17. [RCSB Protein Data Bank](https://www.rcsb.org/)
+12. [Event Data Sets](https://eventdata.parusanalytics.com/data.html)
+13. [The House of Graphs](https://houseofgraphs.org/)
+14. [Encyclopedia of Graphs](http://atlas.gregas.eu/)
+15. [Datasets of Highly Symmetric Objects](https://graphsym.net/)
+16. [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets)  datasets
+17. [Kinsources](https://kintip.net/que-faisons-nous/kinsources)
+18. [RCSB Protein Data Bank](https://www.rcsb.org/)
 
 <hr />
 

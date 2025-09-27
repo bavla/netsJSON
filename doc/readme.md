@@ -1,11 +1,9 @@
 # Documents
 
-## MaRA: DaMaLOS and AIRDeM at ESWC 2025
-Sunday, 1st June, 2025 - Monday, 2nd June, 2025, Portoroz, Slovenia
+## MaRA: Towards a format for describing networks
 
-Submissions
-   - Towards a format for describing networks / 1. Networks and knowledge graphs [Abstract](https://app.oxfordabstracts.com/events/74726/submissions/1031428/abstract-book-view), [Paper](format1.pdf)
-   - Towards a format for describing networks / 2. Format elements [Abstract](https://app.oxfordabstracts.com/events/74726/submissions/1031434/abstract-book-view), [Paper](format2.pdf)
+   - Towards a format for describing networks / 1. Networks and knowledge graphs [PDF](format1.pdf)
+   - Towards a format for describing networks / 2. Format elements [PDF](format2.pdf)
 
 
 

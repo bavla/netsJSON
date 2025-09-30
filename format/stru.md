@@ -164,6 +164,18 @@ IGRAPH fc0b904 DNW- 9 13 --
  [1] Ana  ->Bor   Ana  ->Cene  Eva  ->Bor   Cene ->Ana   Jan  ->Gaj   Gaj  ->Dana  Iva  ->Franc
  [8] Cene ->Gaj   Gaj  ->Ana   Bor  ->Franc Franc->Dana  Gaj  ->Bor   Iva  ->Jan  
 ```
+There is a minor problem
+```
+> E(TR)$comp[[6]]
+[1] "Y" "Y" "Y" "X" "X" "Y"
+> E(TJ)$comp[[6]]
+     [,1] [,2] [,3] [,4] [,5] [,6]
+[1,] "Y"  "Y"  "Y"  "X"  "X"  "Y" 
+> as.vector(E(TJ)$comp[[6]])
+[1] "Y" "Y" "Y" "X" "X" "Y"
+```
+
+
 
 <hr />
 

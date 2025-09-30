@@ -174,6 +174,7 @@ There is a minor problem
 > as.vector(E(TJ)$comp[[6]])
 [1] "Y" "Y" "Y" "X" "X" "Y"
 ```
+https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html
 
 
 

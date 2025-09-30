@@ -4,6 +4,7 @@ September 30, 2025
 
 Properties of nodes and weights on links can have also structure values.
 
+I combined approaches from the [SDA format](https://github.com/bavla/symData/tree/master/format) and the [Sunbelt 2025 workshop](https://github.com/bavla/Nets/tree/master/ws).
 ```
 > setwd("C:/Users/public/Sunbelt25")
 > library(jsonlite)

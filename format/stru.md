@@ -176,7 +176,7 @@ There is a minor problem
 ```
 https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html
 
-
+https://github.com/bavla/semirings/tree/master/R/capacity
 
 <hr />
 

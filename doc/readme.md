@@ -2,7 +2,7 @@
 
 ## Towards a format for describing networks
 
-   - Batagelj, V, Mrvar, A. Towards netML - Networks Markup Language. INSNA Sunbelt, London 1969. [slides](snetml.PDF)
+   - Batagelj, V, Mrvar, A. Towards netML - Networks Markup Language. INSNA Sunbelt, London 1996. [slides](snetml.PDF)
    - netvis
    - 1358+9. sredin seminar [slides](format1358+9.pdf)
    - Towards a format for describing networks / 1. Networks and knowledge graphs [PDF](format1.pdf)

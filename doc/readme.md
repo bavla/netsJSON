@@ -2,6 +2,7 @@
 
 ## Towards a format for describing networks
 
+   - sredin seminar [slides]()
    - Towards a format for describing networks / 1. Networks and knowledge graphs [PDF](format1.pdf)
    - Towards a format for describing networks / 2. Format elements [PDF](format2.pdf)
 

@@ -10,7 +10,7 @@
    - Towards a format for describing networks / 2. Format elements [PDF](format2.pdf), [arXiv]() 
 
 
-[Network resources]()
+[Network resources](https://github.com/bavla/netsJSON/tree/master/Info)
 
 ## Structure of a basic netsJSON file
 

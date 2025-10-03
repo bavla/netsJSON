@@ -2,7 +2,8 @@
 
 ## Towards a format for describing networks
 
-   - sredin seminar [slides]()
+   - netvis
+   - 1358+9. sredin seminar [slides](format1358+9.pdf)
    - Towards a format for describing networks / 1. Networks and knowledge graphs [PDF](format1.pdf)
    - Towards a format for describing networks / 2. Format elements [PDF](format2.pdf)
 

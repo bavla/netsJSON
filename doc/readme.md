@@ -4,6 +4,7 @@
 
    - Batagelj, V, Mrvar, A. Towards netML - Networks Markup Language. INSNA Sunbelt, London 1996. [slides](snetml.PDF)
    - Batagelj, V. Network visualization based on JSON and D3.js. EUSN, Paris, 2016. [slides](netVis.pdf)
+   - Batagelj, V. NetsJSON. UP FAMNIT CS seminar, 2020. [slides](NetsJSON-UP.pdf)
    - 1358+9. sredin seminar. 2025. [slides](format1358+9.pdf)
    - Towards a format for describing networks / 1. Networks and knowledge graphs [PDF](format1.pdf), [arXiv]()
    - Towards a format for describing networks / 2. Format elements [PDF](format2.pdf), [arXiv]() 

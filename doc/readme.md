@@ -6,8 +6,9 @@
    - Batagelj, V. Network visualization based on JSON and D3.js. EUSN, Paris, 2016. [slides](netVis.pdf)
    - Batagelj, V. NetsJSON. UP FAMNIT CS seminar, 2020. [slides](NetsJSON-UP.pdf)
    - 1358+9. sredin seminar. 2025. [slides](format1358+9.pdf)
-   - Towards a format for describing networks / 1. Networks and knowledge graphs [PDF](format1.pdf), [arXiv](https://arxiv.org/abs/2505.00912)
-   - Towards a format for describing networks / 2. Format elements [PDF](format2.pdf), [arXiv](https://arxiv.org/abs/2505.00921) 
+   - Towards a format for describing networks / 1. Networks and knowledge graphs, 2025 [PDF](format1.pdf), [arXiv](https://arxiv.org/abs/2505.00912)
+   - Towards a format for describing networks / 2. Format elements, 2025 [PDF](format2.pdf), [arXiv](https://arxiv.org/abs/2505.00921)
+   - Towards a format for describing networks, IS SIKDD 2025, [PDF](), [slides](formatIS25.pdf)
 
 
 [Network resources](https://github.com/bavla/netsJSON/tree/master/Info)

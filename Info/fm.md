@@ -4,7 +4,6 @@ Network analysis programs and libraries are supporting various network descripti
 
 CSV, UCINET DL, Pajek NET, Gephi GEXF, GDF, GML, GraphML, GraphX, GraphViz DOT, Tulip TPL, Netdraw VNA, Spreadsheet, etc. 
 
-\cite{Bodlaj2017,roughan2015unravelling,GephiFormats}.
 
 
 In addition, network data appears in several application areas such as chemistry and genealogy. 
@@ -16,6 +15,9 @@ The most widely used format for genealogical data exchange, GEDCOM is a plain te
 ## References
 
 - Bodlaj, Jernej and Cerinšek, Monika. Network Data File Formats. In Alhajj, Reda and Rokne, Jon eds., Encyclopedia of Social Network Analysis and Mining, Springer New York, 2014, 2017, p. 1076--1091}, [DOI](https://doi.org/10.1007/978-1-4614-7163-9_298-1).
+- Roughan, Matthew and Tuke, Jonathan. Unravelling graph-exchange file formats. [arXiv](https://arxiv.org/abs/1503.02781), 2015.
+- Gephi. Supported graph formats. [WWW](https://gephi.org/users/supported-graph-formats/), 2022.
+
 
 <hr />
 

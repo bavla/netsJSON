@@ -21,17 +21,6 @@ There are many tools and programs for network analysis. For example, UCINET, Paj
 | **Kumu**                                | [https://kumu.io/](https://kumu.io/) (web-based network mapping / systems mapping tool)                                                                                                                                                                         |
 | **Polinode**                            | [https://polinode.com/](https://polinode.com/)                                                                                                                                                                                                                  |
 
-If you like, I can also look for archived versions or alternate names of “E‑Net” or “PUCK” (sometimes these tools have changed name). Would you like me to dig further on those?
-
-[1]: https://www.analytictech.com/ucinet/?utm_source=chatgpt.com "UCINET"
-[2]: https://casmodeling.springeropen.com/articles/10.1186/s40294-016-0017-8?utm_source=chatgpt.com "Analysis and visualization of large networks with program package Pajek | Complex Adaptive Systems Modeling | Full Text"
-[3]: https://gephi.org/index.html?utm_source=chatgpt.com "Gephi - The Open Graph Viz Platform"
-[4]: https://wikiold.cytoscape.org/Network_analysis_links?utm_source=chatgpt.com "Network_analysis_links - Cytoscape Wiki"
-[5]: https://netminer-viewer.software.informer.com/?utm_source=chatgpt.com "NetMiner Viewer Download - View everything created in NetMiner if you don't"
-[6]: https://cytoscape.org/index.html?utm_source=chatgpt.com "Cytoscape: An Open Source Platform for Complex Network Analysis and Visualization"
-[7]: https://en.wikipedia.org/wiki/NodeXL?utm_source=chatgpt.com "NodeXL"
-[8]: https://github.com/socnetv/app?utm_source=chatgpt.com "GitHub - socnetv/app: Social Network Analysis and Visualization software application."
-
 ## Packages / Libraries
 
 Programmers can use network analysis packages/libraries in a variety of programming languages 
@@ -99,29 +88,6 @@ Here is a list of the libraries, paired with the **best-known official or canoni
 | **CommunityDetection (other ecosystems)**               | There is also a Python package “community-detection” (PyPI) for community detection: [https://pypi.org/project/community-detection/](https://pypi.org/project/community-detection/) ([PyPI][4])                              |
 | **DynComm (dynamic community detection, R)**            | Listed on RDocumentation: [https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6](https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6) ([RDocumentation][5])                                       |
 | **EMLN / ecological multilayer networks (R / ecology)** | GitHub repository: [https://github.com/Ecological-Complexity-Lab/emln](https://github.com/Ecological-Complexity-Lab/emln) (for R package handling ecological multilayer networks) ([British Ecological Society Journals][6]) |
-
-
-[1]: https://github.com/afternone/CommunityDetection.jl?utm_source=chatgpt.com "GitHub - afternone/CommunityDetection.jl: Community Detection in Julia"
-[2]: https://juliapackages.com/p/ecologicalnetworks?utm_source=chatgpt.com "EcologicalNetworks · Julia Packages"
-[3]: https://juliapackages.com/p/graphdataframebridge?utm_source=chatgpt.com "GraphDataFrameBridge · Julia Packages"
-[4]: https://pypi.org/project/community-detection/?utm_source=chatgpt.com "community-detection · PyPI"
-[5]: https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6?utm_source=chatgpt.com "DynComm package - RDocumentation"
-[6]: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14225?utm_source=chatgpt.com "Practical guidelines and the EMLN R package for handling ecological multilayer networks - Frydman - 2023 - Methods in Ecology and Evolution - Wiley Online Library"
-
-[1]: https://cran.r-project.org/web/packages/multiplex/index.html?utm_source=chatgpt.com "CRAN: Package multiplex"
-[2]: https://cran.r-project.org/web/packages/netUtils/?utm_source=chatgpt.com "CRAN: Package netUtils"
-[3]: https://r-packages.io/packages/netUtils?utm_source=chatgpt.com "netUtils R package [Documentation] | R PACKAGES"
-[4]: https://rdrr.io/rforge/NetSim/?utm_source=chatgpt.com "NetSim: A Social Networks Simulation Tool in R version 0.9 from R-Forge"
-[5]: https://github.com/cran/NetSim?utm_source=chatgpt.com "GitHub - cran/NetSim: :exclamation: This is a read-only mirror of the CRAN R package repository. NetSim — A Social Networks Simulation Tool in R"
-[6]: https://rdrr.io/rforge/NetSim/man/NetSim-package.html?utm_source=chatgpt.com "NetSim-package: NetSim: A Social Networks Simulation Tool in R. in NetSim: A Social Networks Simulation Tool in R"
-[7]: https://search.r-project.org/CRAN/refmans/influenceR/html/influenceR.html?utm_source=chatgpt.com "R: influenceR: Software tools to quantify structural importance..."
-[8]: https://github.com/cran/influenceR?utm_source=chatgpt.com "GitHub - cran/influenceR: :exclamation: This is a read-only mirror of the CRAN R package repository. influenceR — Software Tools to Quantify Structural Importance of Nodes in a Network. Homepage: https://github.com/khanna-lab/influenceR"
-[9]: https://cran.rstudio.com/web/packages/RSiena/index.html?utm_source=chatgpt.com "CRAN: Package RSiena"
-[10]: https://stocnet.github.io/rsiena/?utm_source=chatgpt.com "rsiena | An R package for Simulation Investigation for Empirical Network Analysis"
-
-[1]: https://github.com/PythonnotJava/Nets?utm_source=chatgpt.com "GitHub - PythonnotJava/Nets: Nets is a visualization library for drawing network graphs, based on matplotlib"
-[2]: https://www.juliapackages.com/p/erdos?utm_source=chatgpt.com "Erdos · Julia Packages"
-[3]: https://github.com/JuliaGraphs/NetworkLayout.jl?utm_source=chatgpt.com "GitHub - JuliaGraphs/NetworkLayout.jl: Layout algorithms for graphs and trees in pure Julia."
 
 
 

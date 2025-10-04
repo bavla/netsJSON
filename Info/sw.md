@@ -12,7 +12,7 @@ Programmers can use network analysis packages/libraries in a variety of programm
 - etc.
 
 
-Here’s a more complete list of the libraries you mentioned, paired with the **best-known official or canonical URLs** I could find (or a note when I could not reliably locate one). Some are well known, others are obscure or possibly mis‑named; in those cases I include the closest match or a comment.
+Here is a list of the libraries, paired with the **best-known official or canonical URLs**.
 
 | Library                            | URL / Notes                                                                                                                                                                              |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -50,12 +50,12 @@ Here is a list of the libraries, paired with the **best-known official or canoni
 | SimpleWeightedGraphs (Julia)       | [https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl](https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl)                                                                         |
 | Erdos (Julia)                      | [https://www.juliapackages.com/p/erdos](https://www.juliapackages.com/p/erdos) ([Julia Packages][2])                                                                                     |
 | MultilayerGraphs                   | *No reliable canonical site found under exactly this name*                                                                                                                               |
-| GraphDataFrameBridge               | *No reliable canonical site found under exactly this name*                                                                                                                               |
+| GraphDataFrameBridge (Julia)       | Julia package page: [https://juliapackages.com/p/graphdataframebridge](https://juliapackages.com/p/graphdataframebridge) ([Julia Packages][3])                                                                               |
 | GraphIO (Julia)                    | [https://github.com/JuliaGraphs/GraphIO.jl](https://github.com/JuliaGraphs/GraphIO.jl)                                                                                                   |
 | NetworkDynamics (Julia)            | [https://github.com/JuliaDynamics/NetworkDynamics.jl](https://github.com/JuliaDynamics/NetworkDynamics.jl)                                                                               |
 | TemporalGPs (Julia)                | [https://github.com/JuliaDynamics/TemporalGPs.jl](https://github.com/JuliaDynamics/TemporalGPs.jl)                                                                                       |
-| EcologicalNetwork                  | *No reliable canonical site found under exactly this name*                                                                                                                               |
-| CommunityDetection                 | *Usually a module in various ecosystems; no standalone canonical site found*                                                                                                             |
+| EcologicalNetworks (Julia)         | Julia package registry listing: [https://juliapackages.com/p/ecologicalnetworks](https://juliapackages.com/p/ecologicalnetworks) ([Julia Packages][2])                                                                       |
+| CommunityDetection (Julia)         | GitHub: [https://github.com/afternone/CommunityDetection.jl](https://github.com/afternone/CommunityDetection.jl) ([GitHub][1])                                                                                               |
 | GraphPlot (Julia)                  | [https://github.com/JuliaGraphs/GraphPlot.jl](https://github.com/JuliaGraphs/GraphPlot.jl)                                                                                               |
 | NetworkLayout (Julia)              | [https://github.com/JuliaGraphs/NetworkLayout.jl](https://github.com/JuliaGraphs/NetworkLayout.jl) ([GitHub][3])                                                                         |
 | Boost Graph Library (BGL)          | [https://www.boost.org/doc/libs/release/libs/graph](https://www.boost.org/doc/libs/release/libs/graph)                                                                                   |
@@ -67,6 +67,19 @@ Here is a list of the libraries, paired with the **best-known official or canoni
 | Gelly (Apache Flink)               | [https://nightlies.apache.org/flink/flink-docs-release-1.16/docs/dev/datastream/apis/gelly/](https://nightlies.apache.org/flink/flink-docs-release-1.16/docs/dev/datastream/apis/gelly/) |
 
 
+
+
+| **CommunityDetection (other ecosystems)**               | There is also a Python package “community-detection” (PyPI) for community detection: [https://pypi.org/project/community-detection/](https://pypi.org/project/community-detection/) ([PyPI][4])                              |
+| **DynComm (dynamic community detection, R)**            | Listed on RDocumentation: [https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6](https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6) ([RDocumentation][5])                                       |
+| **EMLN / ecological multilayer networks (R / ecology)** | GitHub repository: [https://github.com/Ecological-Complexity-Lab/emln](https://github.com/Ecological-Complexity-Lab/emln) (for R package handling ecological multilayer networks) ([British Ecological Society Journals][6]) |
+
+
+[1]: https://github.com/afternone/CommunityDetection.jl?utm_source=chatgpt.com "GitHub - afternone/CommunityDetection.jl: Community Detection in Julia"
+[2]: https://juliapackages.com/p/ecologicalnetworks?utm_source=chatgpt.com "EcologicalNetworks · Julia Packages"
+[3]: https://juliapackages.com/p/graphdataframebridge?utm_source=chatgpt.com "GraphDataFrameBridge · Julia Packages"
+[4]: https://pypi.org/project/community-detection/?utm_source=chatgpt.com "community-detection · PyPI"
+[5]: https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6?utm_source=chatgpt.com "DynComm package - RDocumentation"
+[6]: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14225?utm_source=chatgpt.com "Practical guidelines and the EMLN R package for handling ecological multilayer networks - Frydman - 2023 - Methods in Ecology and Evolution - Wiley Online Library"
 
 
 If you like, I can similarly try to find URLs or repositories for the remaining ambiguous names (e.g. **CommunityDetection**, **EcologicalNetwork**, **GraphDataFrameBridge**, **MultilayerGraphs**, etc.). Would you like me to continue with those?

@@ -65,10 +65,6 @@ Here is a list of the libraries, paired with the **best-known official or canoni
 | OGDF                               | [https://ogdf.uos.de](https://ogdf.uos.de)                                                                                                                                               |
 | GraphHopper                        | [https://www.graphhopper.com](https://www.graphhopper.com)                                                                                                                               |
 | Gelly (Apache Flink)               | [https://nightlies.apache.org/flink/flink-docs-release-1.16/docs/dev/datastream/apis/gelly/](https://nightlies.apache.org/flink/flink-docs-release-1.16/docs/dev/datastream/apis/gelly/) |
-
-
-
-
 | **CommunityDetection (other ecosystems)**               | There is also a Python package “community-detection” (PyPI) for community detection: [https://pypi.org/project/community-detection/](https://pypi.org/project/community-detection/) ([PyPI][4])                              |
 | **DynComm (dynamic community detection, R)**            | Listed on RDocumentation: [https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6](https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6) ([RDocumentation][5])                                       |
 | **EMLN / ecological multilayer networks (R / ecology)** | GitHub repository: [https://github.com/Ecological-Complexity-Lab/emln](https://github.com/Ecological-Complexity-Lab/emln) (for R package handling ecological multilayer networks) ([British Ecological Society Journals][6]) |
@@ -80,9 +76,6 @@ Here is a list of the libraries, paired with the **best-known official or canoni
 [4]: https://pypi.org/project/community-detection/?utm_source=chatgpt.com "community-detection · PyPI"
 [5]: https://www.rdocumentation.org/packages/DynComm/versions/2020.1.6?utm_source=chatgpt.com "DynComm package - RDocumentation"
 [6]: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14225?utm_source=chatgpt.com "Practical guidelines and the EMLN R package for handling ecological multilayer networks - Frydman - 2023 - Methods in Ecology and Evolution - Wiley Online Library"
-
-
-If you like, I can similarly try to find URLs or repositories for the remaining ambiguous names (e.g. **CommunityDetection**, **EcologicalNetwork**, **GraphDataFrameBridge**, **MultilayerGraphs**, etc.). Would you like me to continue with those?
 
 [1]: https://cran.r-project.org/web/packages/multiplex/index.html?utm_source=chatgpt.com "CRAN: Package multiplex"
 [2]: https://cran.r-project.org/web/packages/netUtils/?utm_source=chatgpt.com "CRAN: Package netUtils"

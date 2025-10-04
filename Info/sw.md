@@ -1,7 +1,38 @@
 # Software support for network analysis
 
+## Programs
 
 There are many tools and programs for network analysis. For example, UCINET, Pajek, Gephi, NetMiner, Cytoscape, NodeXL, E-Net, Tulip, PUCK, GraphViz, SocNetV, Kumu, Polinode, etc.
+
+
+| Program                                 | URL / Notes                                                                                                                                                                                                                                                     |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UCINET**                              | [https://www.analytictech.com/ucinet/](https://www.analytictech.com/ucinet/) ([analytictech.com][1])                                                                                                                                                            |
+| **Pajek**                               | [http://mrvar.fdv.uni-lj.si/pajek/](http://mrvar.fdv.uni-lj.si/pajek/) ([SpringerOpen][2])                                                                                                                                                                      |
+| **Gephi**                               | [https://gephi.org/](https://gephi.org/) ([gephi.org][3])                                                                                                                                                                                                       |
+| **NetMiner**                            | (Commercial tool) — referenced in Cytoscape “Network analysis links” list. ([wikiold.cytoscape.org][4]) <br>NetMiner Viewer download: [https://netminer-viewer.software.informer.com/](https://netminer-viewer.software.informer.com/) ([Software Informer][5]) |
+| **Cytoscape**                           | [https://cytoscape.org/](https://cytoscape.org/) ([cytoscape.org][6])                                                                                                                                                                                           |
+| **NodeXL**                              | NodeXL site / gallery: [http://nodexlgraphgallery.org/](http://nodexlgraphgallery.org/) ([Wikipedia][7])                                                                                                                                                        |
+| **E‑Net**                               | (I could *not* find a definitive, unique URL for “E‑Net” in the network analysis context)                                                                                                                                                                       |
+| **Tulip**                               |  [http://tulip.labri.fr](http://tulip.labri.fr)                                                                                                                                                                      |
+| **PUCK**                                | [https://kintip.net/](https://kintip.net/)                                                                                                                                                                           |
+| **GraphViz**                            | [https://graphviz.org/](https://graphviz.org/) (the standard site for Graphviz)                                                                                                                                                                                 |
+| **SocNetV (Social Network Visualizer)** | [https://github.com/socnetv/app](https://github.com/socnetv/app) (official GitHub) ([GitHub][8])                                                                                                                                                                |
+| **Kumu**                                | [https://kumu.io/](https://kumu.io/) (web-based network mapping / systems mapping tool)                                                                                                                                                                         |
+| **Polinode**                            | [https://polinode.com/](https://polinode.com/)                                                                                                                                                                                                                  |
+
+If you like, I can also look for archived versions or alternate names of “E‑Net” or “PUCK” (sometimes these tools have changed name). Would you like me to dig further on those?
+
+[1]: https://www.analytictech.com/ucinet/?utm_source=chatgpt.com "UCINET"
+[2]: https://casmodeling.springeropen.com/articles/10.1186/s40294-016-0017-8?utm_source=chatgpt.com "Analysis and visualization of large networks with program package Pajek | Complex Adaptive Systems Modeling | Full Text"
+[3]: https://gephi.org/index.html?utm_source=chatgpt.com "Gephi - The Open Graph Viz Platform"
+[4]: https://wikiold.cytoscape.org/Network_analysis_links?utm_source=chatgpt.com "Network_analysis_links - Cytoscape Wiki"
+[5]: https://netminer-viewer.software.informer.com/?utm_source=chatgpt.com "NetMiner Viewer Download - View everything created in NetMiner if you don't"
+[6]: https://cytoscape.org/index.html?utm_source=chatgpt.com "Cytoscape: An Open Source Platform for Complex Network Analysis and Visualization"
+[7]: https://en.wikipedia.org/wiki/NodeXL?utm_source=chatgpt.com "NodeXL"
+[8]: https://github.com/socnetv/app?utm_source=chatgpt.com "GitHub - socnetv/app: Social Network Analysis and Visualization software application."
+
+## Packages / Libraries
 
 Programmers can use network analysis packages/libraries in a variety of programming languages 
 
@@ -93,7 +124,7 @@ Here is a list of the libraries, paired with the **best-known official or canoni
 [3]: https://github.com/JuliaGraphs/NetworkLayout.jl?utm_source=chatgpt.com "GitHub - JuliaGraphs/NetworkLayout.jl: Layout algorithms for graphs and trees in pure Julia."
 
 
-[PUCK](https://kintip.net/) - Program for the Use and Computation of Kinship data
+
 
 <hr />
 

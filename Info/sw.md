@@ -12,6 +12,67 @@ Programmers can use network analysis packages/libraries in a variety of programm
 - etc.
 
 
+Here’s a more complete list of the libraries you mentioned, paired with the **best-known official or canonical URLs** I could find (or a note when I could not reliably locate one). Some are well known, others are obscure or possibly mis‑named; in those cases I include the closest match or a comment.
+
+| Library                            | URL / Notes                                                                                                                                                                              |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NetworkX                           | [https://networkx.org](https://networkx.org) / GitHub: [https://github.com/networkx/networkx](https://github.com/networkx/networkx)                                                      |
+| igraph                             | [https://igraph.org](https://igraph.org) (core) — Python: [https://github.com/igraph/python-igraph](https://github.com/igraph/python-igraph)                                             |
+| SNAP / SNAP.py                     | [https://snap.stanford.edu](https://snap.stanford.edu) / [https://github.com/snap-stanford/snap](https://github.com/snap-stanford/snap)                                                  |
+| graph-tool                         | [https://graph-tool.skewed.de](https://graph-tool.skewed.de)                                                                                                                             |
+| NetworKit                          | [https://networkit.github.io](https://networkit.github.io) / GitHub: [https://github.com/networkit/networkit](https://github.com/networkit/networkit)                                    |
+| PyGraphistry                       | [https://www.graphistry.com](https://www.graphistry.com)                                                                                                                                 |
+| Nets (Python “Nets” visualization) | [https://github.com/PythonnotJava/Nets](https://github.com/PythonnotJava/Nets) ([GitHub][1])                                                                                             |
+| cdlib                              | [https://cdlib.readthedocs.io](https://cdlib.readthedocs.io)                                                                                                                             |
+| node2vec                           | [https://github.com/aditya-grover/node2vec](https://github.com/aditya-grover/node2vec)                                                                                                   |
+| DGL (Deep Graph Library)           | [https://www.dgl.ai](https://www.dgl.ai)                                                                                                                                                 |
+| PyG (PyTorch Geometric)            | [https://pytorch-geometric.readthedocs.io](https://pytorch-geometric.readthedocs.io) / [https://github.com/pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)    |
+| Tulip                              | [http://tulip.labri.fr](http://tulip.labri.fr)                                                                                                                                           |
+| PyVis                              | [https://pyvis.readthedocs.io](https://pyvis.readthedocs.io)                                                                                                                             |
+| statnet (R)                        | [https://statnet.org](https://statnet.org)                                                                                                                                               |
+| sna (R)                            | [https://cran.r-project.org/web/packages/sna](https://cran.r-project.org/web/packages/sna)                                                                                               |
+| RSiena                             | [https://www.stats.ox.ac.uk/~snijders/siena/](https://www.stats.ox.ac.uk/~snijders/siena/)                                                                                               |
+| tnet                               | [https://cran.r-project.org/web/packages/tnet](https://cran.r-project.org/web/packages/tnet)                                                                                             |
+| multiplex                          | *No definitive canonical site found (R package “multiplex” ambiguous)*                                                                                                                   |
+| NetSim                             | *No reliable canonical URL found for a “NetSim” network library*                                                                                                                         |
+| influenceR                         | *No reliable canonical URL found*                                                                                                                                                        |
+| tidygraph                          | [https://tidygraph.data-imaginist.com](https://tidygraph.data-imaginist.com)                                                                                                             |
+| intergraph                         | [https://cran.r-project.org/web/packages/intergraph](https://cran.r-project.org/web/packages/intergraph)                                                                                 |
+| netUtils                           | *No reliable canonical URL found*                                                                                                                                                        |
+| ggraph                             | [https://ggraph.data-imaginist.com](https://ggraph.data-imaginist.com)                                                                                                                   |
+| networkD3                          | [https://christophergandrud.github.io/networkD3](https://christophergandrud.github.io/networkD3)                                                                                         |
+| visNetwork                         | [https://datastorm-open.github.io/visNetwork](https://datastorm-open.github.io/visNetwork)                                                                                               |
+| DiagrammeR                         | [https://rich-iannone.github.io/DiagrammeR](https://rich-iannone.github.io/DiagrammeR)                                                                                                   |
+| graphlayouts                       | [https://github.com/thomasp85/graphlayouts](https://github.com/thomasp85/graphlayouts)                                                                                                   |
+| ndtv                               | [https://cran.r-project.org/web/packages/ndtv](https://cran.r-project.org/web/packages/ndtv)                                                                                             |
+| LightGraphs / Graphs (Julia)       | Graphs.jl (successor to LightGraphs): [https://juliagraphs.org/Graphs.jl](https://juliagraphs.org/Graphs.jl)                                                                             |
+| MetaGraphs (Julia)                 | [https://github.com/JuliaGraphs/MetaGraphs.jl](https://github.com/JuliaGraphs/MetaGraphs.jl)                                                                                             |
+| SimpleWeightedGraphs (Julia)       | [https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl](https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl)                                                                         |
+| Erdos (Julia)                      | [https://www.juliapackages.com/p/erdos](https://www.juliapackages.com/p/erdos) ([Julia Packages][2])                                                                                     |
+| MultilayerGraphs                   | *No reliable canonical site found under exactly this name*                                                                                                                               |
+| GraphDataFrameBridge               | *No reliable canonical site found under exactly this name*                                                                                                                               |
+| GraphIO (Julia)                    | [https://github.com/JuliaGraphs/GraphIO.jl](https://github.com/JuliaGraphs/GraphIO.jl)                                                                                                   |
+| NetworkDynamics (Julia)            | [https://github.com/JuliaDynamics/NetworkDynamics.jl](https://github.com/JuliaDynamics/NetworkDynamics.jl)                                                                               |
+| TemporalGPs (Julia)                | [https://github.com/JuliaDynamics/TemporalGPs.jl](https://github.com/JuliaDynamics/TemporalGPs.jl)                                                                                       |
+| EcologicalNetwork                  | *No reliable canonical site found under exactly this name*                                                                                                                               |
+| CommunityDetection                 | *Usually a module in various ecosystems; no standalone canonical site found*                                                                                                             |
+| GraphPlot (Julia)                  | [https://github.com/JuliaGraphs/GraphPlot.jl](https://github.com/JuliaGraphs/GraphPlot.jl)                                                                                               |
+| NetworkLayout (Julia)              | [https://github.com/JuliaGraphs/NetworkLayout.jl](https://github.com/JuliaGraphs/NetworkLayout.jl) ([GitHub][3])                                                                         |
+| Boost Graph Library (BGL)          | [https://www.boost.org/doc/libs/release/libs/graph](https://www.boost.org/doc/libs/release/libs/graph)                                                                                   |
+| Lemon Graph Library                | [https://lemon.cs.elte.hu/trac/lemon](https://lemon.cs.elte.hu/trac/lemon)                                                                                                               |
+| GraphX (Apache Spark)              | [https://spark.apache.org/graphx/](https://spark.apache.org/graphx/)                                                                                                                     |
+| GraphBLAS                          | [https://graphblas.org](https://graphblas.org)                                                                                                                                           |
+| OGDF                               | [https://ogdf.uos.de](https://ogdf.uos.de)                                                                                                                                               |
+| GraphHopper                        | [https://www.graphhopper.com](https://www.graphhopper.com)                                                                                                                               |
+| Gelly (Apache Flink)               | [https://nightlies.apache.org/flink/flink-docs-release-1.16/docs/dev/datastream/apis/gelly/](https://nightlies.apache.org/flink/flink-docs-release-1.16/docs/dev/datastream/apis/gelly/) |
+
+If you like, I can also check *package registries* (CRAN, PyPI, Julia Registries) to see whether some of the more ambiguous names (e.g. `multiplex`, `NetSim`, `influenceR`, `netUtils`) map to existing packages and supply their URLs. Would you like me to try that?
+
+[1]: https://github.com/PythonnotJava/Nets?utm_source=chatgpt.com "GitHub - PythonnotJava/Nets: Nets is a visualization library for drawing network graphs, based on matplotlib"
+[2]: https://www.juliapackages.com/p/erdos?utm_source=chatgpt.com "Erdos · Julia Packages"
+[3]: https://github.com/JuliaGraphs/NetworkLayout.jl?utm_source=chatgpt.com "GitHub - JuliaGraphs/NetworkLayout.jl: Layout algorithms for graphs and trees in pure Julia."
+
+
 [PUCK](https://kintip.net/) - Program for the Use and Computation of Kinship data
 
 <hr />

@@ -13,3 +13,4 @@ On February 26, 2019 the format was renamed from netJSON to NetsJSON because of 
   - [toonlite: Read, Write, Validate, Stream, and Convert TOON Data](https://cran.r-project.org/web/packages/toonlite/index.html)
 
 
+> install.packages(file.choose(), repos = NULL, type="source")

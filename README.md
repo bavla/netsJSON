@@ -9,4 +9,5 @@ On February 26, 2019 the format was renamed from netJSON to NetsJSON because of 
   - https://www.youtube.com/watch?v=GLLiSgvNSIg
   - https://www.youtube.com/watch?v=JEvy0cIX-7A
   - [TOON (Token-Oriented Object Notation)](https://github.com/toon-format/toon)
+  - [TOON/R](https://cran.r-project.org/web/packages/toon/index.html)
 
